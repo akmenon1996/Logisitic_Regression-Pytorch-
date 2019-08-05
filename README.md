@@ -1,2 +1,2 @@
 # Logisitic_Regression-Pytorch-
-Implementation of Logistic Regression using Pytorch
+Implementation of ML algorithms using Pytorch.
